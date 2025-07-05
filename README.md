@@ -1,17 +1,12 @@
-# Objective:
-Analyze historical sales data to identify trends, key revenue drivers, and provide actionable recommendations for business improvement.
-
 # 📊 Sales Data Analysis
 
-This project explores sales trends, customer segmentation, and profitability using a retail dataset. It uses Python for data cleaning, analysis, and visualization. The goal is to support strategic decision-making using business analytics techniques.
+This project applies business analytics techniques to retail sales data to uncover meaningful insights and support data-driven decision making.
 
-## 🔍 Analysis Covered:
-- Monthly/Yearly Sales Trends
-- Profitability by Segment & Region
-- Impact of Discounts on Profit
-- Top Products by Revenue
+Using Python, we explore monthly sales trends, customer segments, product performance, and profitability across regions. The goal is to identify key revenue drivers, analyze the impact of discounts on profit, and provide actionable recommendations for business strategy.
 
-## 📁 Structure:
-- `data/`: Dataset
-- `notebooks/`: Jupyter notebooks with analysis
-- `visuals/`: Plots for presentation
+## ✨ Key Features:
+- Cleaned and analyzed sales data using Pandas
+- Visualized trends and patterns with Seaborn and Matplotlib
+- Segmented customers and products to evaluate performance
+- Identified factors affecting profitability
+- Delivered insights for decision-makers in retail and sales strategy roles
